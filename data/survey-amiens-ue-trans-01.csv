@@ -1,0 +1,20 @@
+Horodateur,Quel est votre niveau d'étude ?,Quel est votre niveau en développement (problem solving & software) ?,Pratiquez vous le problem solving (compétition de code) ?,Vous-arrive t-il de l'utiliser du code générer par l'IA sans pour autant le comprendre ?,À quelle fréquence utilisez vous les LLM ?,A quelle fin utilisez-vous les LLM ?,Quels langages de programmation connaissez-vous?,Que va afficher le programme suivant ? ,Quel sera le résultat de ce code ? ,Que retourne cet appel de fonction ? ,Dans quel langage de programmation les exercices de code ont été écrits ?,Comment avez-vous résolu les questions de codes ?,Vous arrive-t-il de verifier ou de remettre en question les réponses fournies par LLM ?
+19/12/2024 23:22:37,Master - Cycle ingénieur,4,Oui,Assez souvent,Assez souvent,"Comprendre, pour résoudre un probléme","JAVA, C, Flutter",1 2 3 4 5,"[1, 9, 25]",7,aucune réponse n'est correcte,Refléxion personnelle,Souvent
+20/12/2024 15:14:12,Master 1,3,Non,Jamais,Assez souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, Python, C++",2 4,"[1, 4, 9, 16, 25]",7,C++,Refléxion personnelle,Souvent
+20/12/2024 15:39:50,Licence 1,1,Non,Assez souvent,Jamais,pour résoudre un probléme,"JAVA, C",2 4,"[1, 4, 9, 16, 25]",7,C,Refléxion personnelle,Jamais
+20/12/2024 15:44:10,Licence 3,2,Non,Souvent,Souvent,pour résoudre un probléme,"JAVA, C, C#, Python, C++",2 4,"[1, 9, 25]",7,C#,Refléxion personnelle,Jamais
+21/12/2024 13:13:45,Master 1,3,Oui,Assez souvent,Souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, C++",2 4,"[1, 9, 25]",6,Python,Refléxion personnelle,Souvent
+21/12/2024 13:14:32,Master 1,4,Oui,Souvent,Souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, Python, C++",2 4,"[1, 9, 25]",7,Python,Refléxion personnelle,Souvent
+16/01/2025 14:14:34,Master 1,3,Non,Trés souvent,Trés souvent,"Comprendre, pour résoudre un probléme","JAVA, C, Python",2 4,"[1, 3, 5]",7,JAVA,Refléxion personnelle,Rarement
+16/01/2025 14:35:44,Master 1,3,Oui,Souvent,Assez souvent,Comprendre,"JAVA, C, C#, C++",Rien n'est affiché,"[1, 9, 25]",7,JAVA,À l'aide de Chatgpt,Souvent
+16/01/2025 14:43:45,Master 2,2,Non,Souvent,Trés souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, Python, C++",Rien n'est affiché,"[1, 9, 25]",7,Python,Refléxion personnelle,Souvent
+16/01/2025 14:43:51,Master 1,2,Non,Souvent,Trés souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, Python",2 4,"[1, 3, 5]",6,Python,Refléxion personnelle,Rarement
+16/01/2025 14:46:06,Master 1,4,Oui,Assez souvent,Souvent,pour résoudre un probléme,"JAVA, C, C#, C++",2 4,"[1, 3, 5]",7,Python,Refléxion personnelle,Souvent
+16/01/2025 14:50:22,Master 1,3,Non,Assez souvent,Souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, Python, C++",2 4,"[1, 9, 25]",7,C++,Refléxion personnelle,Souvent
+16/01/2025 14:51:01,Master 1,3,Non,Assez souvent,Souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, Python, C++",2 4,"[1, 9, 25]",6,JAVA,À l'aide de Chatgpt,Souvent
+16/01/2025 14:51:34,Master 1,3,Non,Souvent,Souvent,Comprendre,"JAVA, C, Flutter, C#",2 4,"[1, 9, 25]",6,aucune réponse n'est correcte,Refléxion personnelle,Rarement
+16/01/2025 14:52:11,Master 1,2,Non,Souvent,Trés souvent,"Comprendre, pour résoudre un probléme","JAVA, Flutter",2 4,"[2, 4]",6,C++,Refléxion personnelle,Souvent
+16/01/2025 14:54:29,Master 1,3,Non,Souvent,Assez souvent,"Comprendre, pour résoudre un probléme","JAVA, Flutter, C#, Python, C++",2 4,"[1, 9, 25]",7,aucune réponse n'est correcte,Refléxion personnelle,Souvent
+16/01/2025 14:56:33,Master 1,4,Non,Assez souvent,Assez souvent,Comprendre,"JAVA, C, C#, Python, C++",2 4,"[1, 9, 25]",6,aucune réponse n'est correcte,Refléxion personnelle,Souvent
+16/01/2025 14:56:59,Licence 3,3,Non,Jamais,Jamais,Comprendre,"JAVA, C, Python",2 4,"[1, 3, 5]",7,Python,Refléxion personnelle,Jamais
+16/01/2025 14:59:48,Master 1,3,Non,Assez souvent,Souvent,"Comprendre, pour résoudre un probléme","JAVA, C, C#, Python, C++",2 4,"[1, 3, 5]",7,Python,Refléxion personnelle,Souvent
