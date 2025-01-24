@@ -17,3 +17,5 @@ In the `kmeans_clustering.py` script, we performed the following tasks:
 3. **Cluster Analysis**: Analyzed the characteristics of each cluster to identify common patterns and insights.
 
 This clustering helped us segment the students into distinct groups based on their responses, providing deeper insights into their perspectives on AI in education.
+
+Author-Portfolio : https://anisse-imerzoukene.notion.site/01a8857d5ae94fa2bf8c02f586a9d9cc?v=c927965932e745ffa1a201c072afc64e&pvs=4
